@@ -2,4 +2,4 @@ python-dotenv
 google-generativeai
 streamlit
 pandas
-plotly.express
+plotly
