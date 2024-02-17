@@ -2,8 +2,6 @@ import streamlit as st
 import google.generativeai as gen_ai
 import os
 from dotenv import load_dotenv
-import pandas as pd
-import plotly.express as px
 
 load_dotenv()
 
